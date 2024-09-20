@@ -1,0 +1,11 @@
+package Test_1;
+
+import lombok.Getter;
+
+@Getter
+public class TEST {
+	private Long a;
+	private String b;
+	private String c;
+	private boolean d;
+}
